@@ -28,6 +28,20 @@ Matplotlib & Seaborn — data visualization
 
 Google Colab — development environment
 
+✅ Task 1: Web Scraping
+
+Scraped data of Netflix Original Films (2022) directly from Wikipedia using Python
+
+Used requests to fetch the webpage and pandas.read_html() to extract table data
+
+Collected details: Title, Release Date, Genre, Runtime, and Language
+
+Cleaned the scraped data by removing duplicates and handling missing values
+
+Saved the final cleaned dataset as netflix_2022_scraped.csv for further analysis
+
+Source: https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(2022)
+
 ✅ Task 2: Exploratory Data Analysis (EDA)
 
 Explored dataset structure, columns, and data types
